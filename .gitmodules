@@ -1,0 +1,3 @@
+[submodule "submodule-one"]
+	path = submodule-one
+	url = https://github.com/skitterm/submodule-one.git
